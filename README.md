@@ -1,16 +1,31 @@
-## Hi there 👋
+# Ricardo Felipe Bravo
 
-<!--
-**ricardofelipe-bravo/ricardofelipe-bravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronic Engineer with interests in control systems, optimization, RF engineering and embedded systems.
 
-Here are some ideas to get you started:
+## Technical Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Control Systems
+- Optimization and Operations Research
+- RF and Microwave Engineering
+- Embedded Systems
+- Signal Processing
+
+## Tools and Technologies
+
+MATLAB • Python • C/C++ • Simulink • Altair FEKO • EasyEDA • KiCad • Altium Designer
+
+## Featured Projects
+
+### Furuta Pendulum Control
+Implementation and evaluation of advanced control strategies (LQR, Gain Scheduling, Fuzzy, MPC) for stabilization and swing-up of a Furuta pendulum.
+
+### Employee Scheduling Optimization
+Optimization model using Mixed Integer Linear Programming (MILP) and Genetic Algorithms for workforce scheduling.
+
+### Circular Patch Antenna for 5 GHz WiFi
+Design, simulation, fabrication and experimental validation of a circular microstrip patch antenna.
+
+---
+
+📍 Pasto, Colombia  
+📫 Contact: ricardofelipebravo12@gmail.com
