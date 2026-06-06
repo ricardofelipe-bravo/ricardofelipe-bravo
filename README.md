@@ -27,5 +27,5 @@ Design, simulation, fabrication and experimental validation of a circular micros
 
 ---
 
-📍 Pasto, Colombia  
+📍 Cali, Colombia  
 📫 Contact: ricardofelipebravo12@gmail.com
